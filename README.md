@@ -37,6 +37,7 @@
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for operating rime configurations and dictionaries (under development)
 - **1** [nk2028/tupa-reverse-deriver](https://github.com/nk2028/tupa-reverse-deriver): 切韻拼音反推音韻地位
 - **0** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
+- **0** [nk2028/nk2028](https://github.com/nk2028/nk2028): nk2028 GitHub profile
 - **0** [nk2028/pvaancet-analysis-examples](https://github.com/nk2028/pvaancet-analysis-examples): Python script examples for analysing fanqie
 - **0** [nk2028/qieyun-examples-node](https://github.com/nk2028/qieyun-examples-node): JavaScript code examples to generate the derivatives of the Qieyun phonological system using qieyun-js (Node.js version)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
