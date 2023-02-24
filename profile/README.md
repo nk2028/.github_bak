@@ -28,6 +28,7 @@
 - **2** [nk2028/qieyun-encoder-python](https://github.com/nk2028/qieyun-encoder-python): A Python library for the operating the basic structure of the Qieyun phonological system
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
 - **2** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
+- **2** [nk2028/tupa-reverse-deriver](https://github.com/nk2028/tupa-reverse-deriver): 切韻拼音反推音韻地位
 - **2** [nk2028/yonhkiengh](https://github.com/nk2028/yonhkiengh): A modern rhyme mirror based on Guangyun
 - **1** [nk2028/nk2028.github.io](https://github.com/nk2028/nk2028.github.io): Homepage of the nk2028 Organization
 - **1** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
@@ -35,9 +36,8 @@
 - **1** [nk2028/qieyun-text-label](https://github.com/nk2028/qieyun-text-label): A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system
 - **1** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): A tool to analyze rhyming material using statistical methods
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for operating rime configurations and dictionaries (under development)
-- **1** [nk2028/tupa-reverse-deriver](https://github.com/nk2028/tupa-reverse-deriver): 切韻拼音反推音韻地位
+- **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
 - **0** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
-- **0** [nk2028/nk2028](https://github.com/nk2028/nk2028): nk2028 GitHub profile
 - **0** [nk2028/pvaancet-analysis-examples](https://github.com/nk2028/pvaancet-analysis-examples): Python script examples for analysing fanqie
 - **0** [nk2028/qieyun-examples-node](https://github.com/nk2028/qieyun-examples-node): JavaScript code examples to generate the derivatives of the Qieyun phonological system using qieyun-js (Node.js version)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
