@@ -36,7 +36,7 @@ def main():
     username = 'nk2028'
     repos = get_repos(username)
     markdown = generate_markdown(repos)
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open('profile/README.md', 'w', encoding='utf-8') as f:
         f.write(markdown)
 
 if __name__ == '__main__':
