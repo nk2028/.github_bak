@@ -11,8 +11,8 @@
 - **9** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **8** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
 - **7** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
+- **7** [nk2028/uinh-kyaengh-images](https://github.com/nk2028/uinh-kyaengh-images): 《韻鏡》書影 Uinh-kyaengh Images
 - **6** [nk2028/cethiunn](https://github.com/nk2028/cethiunn): 《切韻》書影
-- **6** [nk2028/hiunnkyanq](https://github.com/nk2028/hiunnkyanq): 《韻鏡》書影
 - **5** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **5** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **5** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): A database of the Qieyun phonological system
@@ -25,6 +25,7 @@
 - **4** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **3** [nk2028/ipa-practice](https://github.com/nk2028/ipa-practice): Online IPA Practice System
 - **3** [nk2028/qieyun-search](https://github.com/nk2028/qieyun-search): 切韻音系聯合查詢系統 (beta)
+- **2** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
 - **2** [nk2028/qieyun-encoder-python](https://github.com/nk2028/qieyun-encoder-python): A Python library for the operating the basic structure of the Qieyun phonological system
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
 - **2** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
