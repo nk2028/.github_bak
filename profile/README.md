@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **137** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **140** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **29** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - **26** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
 - **24** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automated online tool for generating the derivatives of the Qieyun phonological system
@@ -23,7 +23,7 @@
 - **5** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
 - **4** [nk2028/qieyun-extrapolation-tools](https://github.com/nk2028/qieyun-extrapolation-tools): A tool to find the laws of sound change of post-Qieyun phonological systems (Including Cantonese, Japanese Kan-on and others)
-- **3** [nk2028/ipa-practice](https://github.com/nk2028/ipa-practice): Online IPA Practice System
+- **3** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
 - **3** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
 - **3** [nk2028/qieyun-search](https://github.com/nk2028/qieyun-search): 切韻音系聯合查詢系統 (beta)
 - **3** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
