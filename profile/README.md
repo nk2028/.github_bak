@@ -12,7 +12,7 @@
 - **9** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **9** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
 - **9** [nk2028/uinh-kyaengh-images](https://github.com/nk2028/uinh-kyaengh-images): 《韻鏡》書影 Uinh-kyaengh Images
-- **7** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
+- **8** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **7** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **6** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): A database of the Qieyun phonological system
@@ -21,6 +21,7 @@
 - **5** [nk2028/qieyun-tools](https://github.com/nk2028/qieyun-tools): A tool to find the Chinese characters by phonological expressions
 - **5** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - **5** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
+- **4** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
 - **4** [nk2028/tshet-uinh-extrapolation-tool](https://github.com/nk2028/tshet-uinh-extrapolation-tool): A tool to find the laws of sound change of post-Qieyun phonological systems
 - **3** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
@@ -39,6 +40,7 @@
 - **1** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): A tool to analyze rhyming material using statistical methods
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for operating rime configurations and dictionaries (under development)
 - **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
+- **0** [nk2028/hdqt-server](https://github.com/nk2028/hdqt-server): Server of Chinese Dialect Pronunciation Atlas (漢字音典): A comprehensive collection of Chinese character pronunciations across various Chinese dialects
 - **0** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
 - **0** [nk2028/pvaancet-analysis-examples](https://github.com/nk2028/pvaancet-analysis-examples): Python script examples for analysing fanqie
 - **0** [nk2028/qieyun-examples-node](https://github.com/nk2028/qieyun-examples-node): JavaScript code examples to generate the derivatives of the Qieyun phonological system using qieyun-js (Node.js version)
@@ -56,5 +58,6 @@
 - **0** [nk2028/HDIC](https://github.com/nk2028/HDIC): HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
 - **0** [nk2028/hello-world](https://github.com/nk2028/hello-world): Hello world repo
 - **0** [nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator](https://github.com/nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator): An HTML5 widget for Chi-Square Test of Independence.
+- **0** [nk2028/MCPDict](https://github.com/nk2028/MCPDict): Android App: 漢字音典 https://mcpdict.sourceforge.io/
 - **0** [nk2028/old-written-kanji](https://github.com/nk2028/old-written-kanji): 存放常見冩本異體字
 - **0** [nk2028/ytenx](https://github.com/nk2028/ytenx): YonhTenxMyangx 韻典網
