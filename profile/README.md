@@ -13,6 +13,7 @@
 - **9** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
 - **9** [nk2028/uinh-kyaengh-images](https://github.com/nk2028/uinh-kyaengh-images): 《韻鏡》書影 Uinh-kyaengh Images
 - **8** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
+- **7** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **7** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **6** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): A database of the Qieyun phonological system
@@ -21,7 +22,6 @@
 - **5** [nk2028/qieyun-tools](https://github.com/nk2028/qieyun-tools): A tool to find the Chinese characters by phonological expressions
 - **5** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - **5** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
-- **4** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
 - **4** [nk2028/tshet-uinh-extrapolation-tool](https://github.com/nk2028/tshet-uinh-extrapolation-tool): A tool to find the laws of sound change of post-Qieyun phonological systems
 - **3** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
