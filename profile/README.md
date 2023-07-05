@@ -1,9 +1,9 @@
 ## Original Repositories
 
-- **149** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **151** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **30** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
-- **27** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
-- **24** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
+- **29** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
+- **25** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **24** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **21** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **15** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
@@ -52,13 +52,13 @@
 ## Forked Repositories
 
 - **4** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh): rime 中古漢語拼音（古韻羅馬字版）方案
-- **2** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
+- **3** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
 - **2** [nk2028/corpus](https://github.com/nk2028/corpus): 古典中文語料庫
 - **1** [nk2028/IPA-lab](https://github.com/nk2028/IPA-lab): 汉字-国际音标转换器
 - **1** [nk2028/MCPDict](https://github.com/nk2028/MCPDict): Android App: 漢字音典 https://mcpdict.sourceforge.io/
+- **1** [nk2028/old-written-kanji](https://github.com/nk2028/old-written-kanji): 存放常見冩本異體字
 - **0** [nk2028/bnf_downloader](https://github.com/nk2028/bnf_downloader): Python script for downloading books from BnF Gallica
 - **0** [nk2028/HDIC](https://github.com/nk2028/HDIC): HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
 - **0** [nk2028/hello-world](https://github.com/nk2028/hello-world): Hello world repo
 - **0** [nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator](https://github.com/nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator): An HTML5 widget for Chi-Square Test of Independence.
-- **0** [nk2028/old-written-kanji](https://github.com/nk2028/old-written-kanji): 存放常見冩本異體字
 - **0** [nk2028/ytenx](https://github.com/nk2028/ytenx): YonhTenxMyangx 韻典網
