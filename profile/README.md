@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **153** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **155** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **30** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - **30** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
 - **25** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
@@ -17,9 +17,9 @@
 - **7** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **7** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): A database of the Qieyun phonological system
 - **7** [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source): Dictionary of Middle Chinese
+- **7** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **7** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
-- **6** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **5** [nk2028/qieyun-tools](https://github.com/nk2028/qieyun-tools): A tool to find the Chinese characters by phonological expressions
 - **5** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **4** [nk2028/ORCHESTRA-dataset](https://github.com/nk2028/ORCHESTRA-dataset): ORCHESTRA is a comprehensive dataset of classical Chinese poetry, with data sourced from SouYun Website
