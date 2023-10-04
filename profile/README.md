@@ -1,14 +1,14 @@
 ## Original Repositories
 
-- **161** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **32** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
+- **164** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **33** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - **32** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
+- **26** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **25** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
-- **25** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **24** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **17** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **13** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
-- **10** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
+- **11** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
 - **9** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **9** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **9** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
