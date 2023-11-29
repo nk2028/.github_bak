@@ -7,11 +7,11 @@
 - **26** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **23** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **18** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
-- **14** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
+- **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
 - **11** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
 - **10** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
+- **10** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **9** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): A database of the Qieyun phonological system
-- **9** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **9** [nk2028/uinh-kyaengh-images](https://github.com/nk2028/uinh-kyaengh-images): 《韻鏡》書影 Uinh-kyaengh Images
 - **8** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
 - **7** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
@@ -36,13 +36,13 @@
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
 - **2** [nk2028/tupa-reverse-deriver](https://github.com/nk2028/tupa-reverse-deriver): 切韻拼音反推音韻地位
 - **1** [nk2028/image-annotator](https://github.com/nk2028/image-annotator): Image annotator for historical linguistic data
+- **1** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
 - **1** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
 - **1** [nk2028/purescript-qieyun](https://github.com/nk2028/purescript-qieyun): A PureScript library for the Qieyun phonological system
-- **1** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): A tool to analyze rhyming material using statistical methods
+- **1** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): 韻段離合指數統計工具 A tool for rhyming material mixing index statistics
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for operating rime configurations and dictionaries (under development)
 - **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
 - **0** [nk2028/hdqt-server](https://github.com/nk2028/hdqt-server): Server of Chinese Dialect Pronunciation Atlas (漢字音典): A comprehensive collection of Chinese character pronunciations across various Chinese dialects
-- **0** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
 - **0** [nk2028/pvaancet-analysis-examples](https://github.com/nk2028/pvaancet-analysis-examples): Python script examples for analysing fanqie
 - **0** [nk2028/qieyun-examples-node](https://github.com/nk2028/qieyun-examples-node): JavaScript code examples to generate the derivatives of the Qieyun phonological system using qieyun-js (Node.js version)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
