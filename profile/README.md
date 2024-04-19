@@ -32,7 +32,7 @@
 - **2** [nk2028/image-annotator](https://github.com/nk2028/image-annotator): Image annotator for historical linguistic data
 - **2** [nk2028/nk2028.github.io](https://github.com/nk2028/nk2028.github.io): Homepage of the nk2028 Organization
 - **2** [nk2028/ORCHESTRA-dataset](https://github.com/nk2028/ORCHESTRA-dataset): ORCHESTRA is a comprehensive dataset of classical Chinese poetry, with data sourced from SouYun Website
-- **2** [nk2028/qieyun-encoder-python](https://github.com/nk2028/qieyun-encoder-python): A Python library for the operating the basic structure of the Qieyun phonological system
+- **2** [nk2028/tshet-uinh-encoder-python](https://github.com/nk2028/tshet-uinh-encoder-python): A Python library for the operating the basic structure of the Tshet-uinh phonological system
 - **2** [nk2028/qieyun-text-label](https://github.com/nk2028/qieyun-text-label): A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system
 - **2** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): 韻段離合指數統計工具 A tool for rhyming material mixing index statistics
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
