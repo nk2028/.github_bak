@@ -1,11 +1,11 @@
 ## Original Repositories
 
-- **211** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **216** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **39** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - **35** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
+- **34** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **33** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
-- **32** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
-- **29** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
+- **30** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **18** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
 - **12** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): Data of the Qieyun phonological system
