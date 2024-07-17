@@ -1,8 +1,8 @@
 ## Original Repositories
 
-- **225** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **226** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **40** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
-- **37** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
+- **38** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **37** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
 - **34** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **31** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
@@ -51,7 +51,7 @@
 
 ## Forked Repositories
 
-- **4** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
+- **5** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
 - **4** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh): rime 中古漢語拼音（古韻羅馬字版）方案
 - **2** [nk2028/corpus](https://github.com/nk2028/corpus): 古典中文語料庫
 - **1** [nk2028/IPA-lab](https://github.com/nk2028/IPA-lab): 汉字-国际音标转换器
