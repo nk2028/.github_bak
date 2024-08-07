@@ -1,8 +1,8 @@
 ## Original Repositories
 
-- **229** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **230** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **40** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
-- **38** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
+- **39** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **37** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
 - **34** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **31** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
