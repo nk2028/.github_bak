@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **230** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **229** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **40** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - **39** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **37** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
