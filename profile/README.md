@@ -1,14 +1,14 @@
 ## Original Repositories
 
-- **235** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **237** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **41** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
 - **40** [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
-- **39** [nk2028/qieyun-autoderiver](https://github.com/nk2028/qieyun-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
-- **38** [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js): A JavaScript library for the Qieyun phonological system
+- **39** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Tshet-uinh phonological system
 - **34** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **31** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **18** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
-- **13** [nk2028/qieyun-data](https://github.com/nk2028/qieyun-data): Data of the Qieyun phonological system
+- **13** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Data of the Qieyun phonological system
 - **11** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **11** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
 - **10** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
@@ -22,8 +22,8 @@
 - **7** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **6** [nk2028/tshet-uinh-extrapolation-tool](https://github.com/nk2028/tshet-uinh-extrapolation-tool): A tool to find the laws of sound change of post-Qieyun phonological systems
 - **6** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
-- **5** [nk2028/qieyun-tools](https://github.com/nk2028/qieyun-tools): A tool to find the Chinese characters by phonological expressions
 - **5** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
+- **5** [nk2028/tshet-uinh-tools](https://github.com/nk2028/tshet-uinh-tools): A tool to find the Chinese characters by phonological expressions
 - **4** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
 - **4** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
 - **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
@@ -60,4 +60,5 @@
 - **0** [nk2028/bnf_downloader](https://github.com/nk2028/bnf_downloader): Python script for downloading books from BnF Gallica
 - **0** [nk2028/HDIC](https://github.com/nk2028/HDIC): HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
 - **0** [nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator](https://github.com/nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator): An HTML5 widget for Chi-Square Test of Independence.
+- **0** [nk2028/qieyun-autoderiver-legacy](https://github.com/nk2028/qieyun-autoderiver-legacy): An automatic extrapolation tool based on the Tshet-uinh phonological system (legacy version)
 - **0** [nk2028/ytenx](https://github.com/nk2028/ytenx): YonhTenxMyangx 韻典網
