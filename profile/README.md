@@ -1,11 +1,11 @@
 ## Original Repositories
 
-- **246** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **42** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An automatic extrapolation tool based on the Tshet-uinh phonological system
-- **41** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun phonological system using TshetUinh.js
+- **245** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **42** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An automatic extrapolation tool based on the Qieyun system
+- **41** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **40** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Tshet-uinh phonological system
 - **36** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
-- **32** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
+- **33** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **18** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
 - **14** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Data of the Qieyun phonological system
@@ -38,6 +38,7 @@
 - **2** [nk2028/tshet-uinh-encoder-python](https://github.com/nk2028/tshet-uinh-encoder-python): A Python library for the operating the basic structure of the Tshet-uinh phonological system
 - **2** [nk2028/tshet-uinh-text-label](https://github.com/nk2028/tshet-uinh-text-label): A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system
 - **1** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
+- **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
 - **1** [nk2028/purescript-qieyun](https://github.com/nk2028/purescript-qieyun): A PureScript library for the Qieyun phonological system
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for parsing Rime dictionaries
