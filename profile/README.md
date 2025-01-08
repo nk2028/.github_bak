@@ -1,7 +1,7 @@
 ## Original Repositories
 
-- **251** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **45** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that automatically generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
+- **253** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **46** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that automatically generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **43** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **42** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Tshet-uinh phonological system
 - **37** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
@@ -34,6 +34,7 @@
 - **2** [nk2028/nk2028.github.io](https://github.com/nk2028/nk2028.github.io): Homepage of the nk2028 Organization
 - **2** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
 - **2** [nk2028/ORCHESTRA-dataset](https://github.com/nk2028/ORCHESTRA-dataset): ORCHESTRA is a comprehensive dataset of classical Chinese poetry, with data sourced from SouYun Website
+- **2** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **2** [nk2028/rhyme-stat](https://github.com/nk2028/rhyme-stat): 韻段離合指數統計工具 A tool for rhyming material mixing index statistics
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
 - **2** [nk2028/tshet-uinh-encoder-python](https://github.com/nk2028/tshet-uinh-encoder-python): A Python library for the operating the basic structure of the Tshet-uinh phonological system
@@ -41,7 +42,6 @@
 - **1** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
 - **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/purescript-qieyun](https://github.com/nk2028/purescript-qieyun): A PureScript library for the Qieyun phonological system
-- **1** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for parsing Rime dictionaries
 - **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
 - **0** [nk2028/hdqt-server](https://github.com/nk2028/hdqt-server): Server of Chinese Dialect Pronunciation Atlas (漢字音典)
