@@ -2,14 +2,14 @@
 
 - **285** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **50** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that automatically generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
-- **45** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
+- **46** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **44** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Tshet-uinh phonological system
 - **40** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
-- **38** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
+- **40** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **19** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **16** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Data of the Qieyun phonological system
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
-- **12** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
+- **13** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **12** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **12** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
 - **11** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
@@ -45,19 +45,19 @@
 - **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/purescript-qieyun](https://github.com/nk2028/purescript-qieyun): A PureScript library for the Qieyun phonological system
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for parsing Rime dictionaries
+- **1** [nk2028/tshet-uinh-deriver-tools](https://github.com/nk2028/tshet-uinh-deriver-tools): Utilities for TshetUinh.js derivers
 - **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
 - **0** [nk2028/pvaancet-analysis-examples](https://github.com/nk2028/pvaancet-analysis-examples): Python script examples for analysing fanqie
 - **0** [nk2028/qieyun](https://github.com/nk2028/qieyun): Web app for looking up characters in Guangyun (廣韻)
 - **0** [nk2028/qieyun-examples-node](https://github.com/nk2028/qieyun-examples-node): JavaScript code examples to generate the derivatives of the Qieyun phonological system using qieyun-js (Node.js version)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
-- **0** [nk2028/tshet-uinh-deriver-tools](https://github.com/nk2028/tshet-uinh-deriver-tools): Utilities for TshetUinh.js derivers
 - **0** [nk2028/uyghur](https://github.com/nk2028/uyghur): Resources about the Uyghur language
 
 ## Forked Repositories
 
 - **6** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
 - **5** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh): rime 中古漢語拼音（古韻羅馬字版）方案
-- **2** [nk2028/corpus](https://github.com/nk2028/corpus): 古典中文語料庫
+- **3** [nk2028/corpus](https://github.com/nk2028/corpus): 古典中文語料庫
 - **1** [nk2028/IPA-lab](https://github.com/nk2028/IPA-lab): 汉字-国际音标转换器
 - **1** [nk2028/old-written-kanji](https://github.com/nk2028/old-written-kanji): 存放常見冩本異體字
 - **0** [nk2028/bnf_downloader](https://github.com/nk2028/bnf_downloader): Python script for downloading books from BnF Gallica
