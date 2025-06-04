@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **285** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **286** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **50** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that automatically generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **46** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **44** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Tshet-uinh phonological system
@@ -32,6 +32,7 @@
 - **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
 - **3** [nk2028/qieyun-search](https://github.com/nk2028/qieyun-search): 切韻音系聯合查詢系統 (beta)
 - **3** [nk2028/yonhkiengh](https://github.com/nk2028/yonhkiengh): A modern rhyme mirror based on Guangyun
+- **2** [nk2028/hdqt-server](https://github.com/nk2028/hdqt-server): Server of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **2** [nk2028/image-annotator](https://github.com/nk2028/image-annotator): Image annotator for historical linguistic data
 - **2** [nk2028/nk2028.github.io](https://github.com/nk2028/nk2028.github.io): Homepage of the nk2028 Organization
 - **2** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
@@ -40,7 +41,6 @@
 - **2** [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder): Build RIME dicts in different 切韻-Chinese romanizations
 - **2** [nk2028/tshet-uinh-encoder-python](https://github.com/nk2028/tshet-uinh-encoder-python): A Python library for the operating the basic structure of the Tshet-uinh phonological system
 - **2** [nk2028/tshet-uinh-text-label](https://github.com/nk2028/tshet-uinh-text-label): A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system
-- **1** [nk2028/hdqt-server](https://github.com/nk2028/hdqt-server): Server of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **1** [nk2028/kuankhiunn](https://github.com/nk2028/kuankhiunn): 《廣韻》書影
 - **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/purescript-qieyun](https://github.com/nk2028/purescript-qieyun): A PureScript library for the Qieyun phonological system
