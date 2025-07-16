@@ -4,16 +4,16 @@
 - **51** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that automatically generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **46** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **44** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun phonological system
-- **41** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
+- **42** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): rime 切韻拼音輸入方案
 - **40** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **20** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character. Output all the variant characters of it.
 - **16** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Data of the Qieyun phonological system
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 《切韻》書影 Tshet-uinh Images
 - **13** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **12** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
+- **12** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **12** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
 - **11** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
-- **11** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **11** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **10** [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source): Dictionary of Middle Chinese
 - **9** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
