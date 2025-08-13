@@ -29,7 +29,7 @@
 - **5** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
 - **5** [nk2028/tupa-parser](https://github.com/nk2028/tupa-parser): 切韻拼音解析為音韻地位
 - **4** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
-- **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): A tool to automate the process of obtaining the phonological position of the Qieyun phonological system of a Chinese character by its fanqie
+- **4** [nk2028/pyanxchet](https://github.com/nk2028/pyanxchet): An automated fanqie tool based on the Qieyun phonological system
 - **3** [nk2028/ORCHESTRA-dataset](https://github.com/nk2028/ORCHESTRA-dataset): ORCHESTRA is a comprehensive dataset of classical Chinese poetry, with data sourced from SouYun Website
 - **3** [nk2028/qieyun-search](https://github.com/nk2028/qieyun-search): 切韻音系聯合查詢系統 (beta)
 - **3** [nk2028/yonhkiengh](https://github.com/nk2028/yonhkiengh): A modern rhyme mirror based on Guangyun
