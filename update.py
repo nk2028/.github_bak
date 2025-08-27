@@ -15,20 +15,38 @@ def get_repos(username):
         page += 1
     return repos
 
+def get_repo_str(repo):
+    return f'- **{repo["stargazers_count"]}** [{repo["full_name"]}]({repo["html_url"]}): {repo["description"]}\n'
+
 def generate_markdown(repos):
-    original_repos = [repo for repo in repos if not repo['fork']]
-    forked_repos = [repo for repo in repos if repo['fork']]
+    original_repos = []
+    archived_repos = []
+    forked_repos = []
+
+    for repo in repos:
+        if not repo['fork']:
+            if not repo['archived']:
+                original_repos.append(repo)
+            else:
+                archived_repos.append(repo)
+        else:
+            forked_repos.append(repo)
 
     sorted_original_repos = sorted(original_repos, key=lambda x: x['stargazers_count'], reverse=True)
+    sorted_archived_repos = sorted(archived_repos, key=lambda x: x['stargazers_count'], reverse=True)
     sorted_forked_repos = sorted(forked_repos, key=lambda x: x['stargazers_count'], reverse=True)
 
     markdown = '## Original Repositories\n\n'
     for repo in sorted_original_repos:
-        markdown += f'- **{repo["stargazers_count"]}** [{repo["full_name"]}]({repo["html_url"]}): {repo["description"]}\n'
+        markdown += get_repo_str(repo)
+
+    markdown += '\n## Archived Repositories\n\n'
+    for repo in sorted_archived_repos:
+        markdown += get_repo_str(repo)
 
     markdown += '\n## Forked Repositories\n\n'
     for repo in sorted_forked_repos:
-        markdown += f'- **{repo["stargazers_count"]}** [{repo["full_name"]}]({repo["html_url"]}): {repo["description"]}\n'
+        markdown += get_repo_str(repo)
 
     return markdown
 
