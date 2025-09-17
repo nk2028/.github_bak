@@ -1,8 +1,8 @@
 ## Original Repositories
 
 - **298** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **54** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
-- **47** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
+- **53** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
+- **48** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **46** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
 - **43** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): Rime TUPA input schema | rime 切韻拼音輸入方案
 - **42** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
@@ -10,7 +10,7 @@
 - **17** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Machine-readable data extracted from ancient documents of the Qieyun system
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 切韻系韻書及韻圖書影 Images of ancient documents of the Qieyun system
 - **13** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
-- **12** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
+- **13** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
 - **12** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **12** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **10** [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source): Dictionary of Middle Chinese
@@ -18,12 +18,12 @@
 - **9** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - **7** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **7** [nk2028/tshet-uinh-fanqie](https://github.com/nk2028/tshet-uinh-fanqie): An automated fanqie tool based on the Qieyun system
+- **7** [nk2028/tshet-uinh-tools](https://github.com/nk2028/tshet-uinh-tools): A tool to find the Chinese characters by phonological expressions
 - **7** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **6** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
 - **6** [nk2028/menggu-ziyun-data](https://github.com/nk2028/menggu-ziyun-data): A database of Menggu Ziyun (蒙古字韻)
 - **6** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **6** [nk2028/tshet-uinh-extrapolation-tool](https://github.com/nk2028/tshet-uinh-extrapolation-tool): A tool to find the laws of sound change of post-Qieyun phonological systems
-- **6** [nk2028/tshet-uinh-tools](https://github.com/nk2028/tshet-uinh-tools): A tool to find the Chinese characters by phonological expressions
 - **5** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
 - **5** [nk2028/tupa-parser](https://github.com/nk2028/tupa-parser): 切韻拼音解析為音韻地位
 - **4** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
