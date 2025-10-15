@@ -11,8 +11,8 @@
 - **16** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **15** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 切韻系韻書及韻圖書影 Images of ancient documents of the Qieyun system
 - **14** [nk2028/hdqt](https://github.com/nk2028/hdqt): Website of Chinese Dialect Pronunciation Atlas (漢字音典)
+- **13** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **13** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
-- **12** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **10** [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source): Dictionary of Middle Chinese
 - **9** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
 - **9** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
