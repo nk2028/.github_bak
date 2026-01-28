@@ -1,7 +1,7 @@
 ## Original Repositories
 
 - **322** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **55** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online tool that generates phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
+- **55** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **52** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **51** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
 - **46** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): Rime TUPA input schema | rime 切韻拼音輸入方案
@@ -39,10 +39,10 @@
 - **2** [nk2028/tshet-uinh-text-label](https://github.com/nk2028/tshet-uinh-text-label): A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system
 - **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for parsing Rime dictionaries
+- **1** [nk2028/uinh-kyaengh-js](https://github.com/nk2028/uinh-kyaengh-js): A JavaScript library for working with 韻鏡系韻圖 (Yunjing-type rime tables)
 - **0** [nk2028/.github_bak](https://github.com/nk2028/.github_bak): nk2028 GitHub profile
 - **0** [nk2028/qieyun](https://github.com/nk2028/qieyun): Web app for looking up characters in Guangyun (廣韻)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
-- **0** [nk2028/uinh-kyaengh-js](https://github.com/nk2028/uinh-kyaengh-js): None
 - **0** [nk2028/uyghur](https://github.com/nk2028/uyghur): Resources about the Uyghur language
 
 ## Archived Repositories
