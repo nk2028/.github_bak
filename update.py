@@ -1,18 +1,37 @@
 import json
+import os
+from pathlib import Path
+
 import requests
 
-def get_repos(username):
+def get_repos(username, token=None):
     repos = []
     page = 1
+    headers = {
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+    }
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
+
     while True:
-        response = requests.get(f'https://api.github.com/users/{username}/repos?page={page}')
-        if response.status_code != 200:
-            break
+        response = requests.get(f'https://api.github.com/users/{username}/repos', headers=headers, params={'page': page, 'per_page': 100}, timeout=30)
+        try:
+            response.raise_for_status()
+        except requests.HTTPError as error:
+            raise RuntimeError(f'GitHub API request failed on page {page}: {response.status_code} {response.reason}') from error
+
         data = json.loads(response.text)
+        if not isinstance(data, list):
+            raise RuntimeError('GitHub API returned an unexpected response')
         if not data:
             break
         repos.extend(data)
         page += 1
+
+    if not repos:
+        raise RuntimeError('GitHub returned no repositories; refusing to overwrite profile/README.md')
+
     return repos
 
 def get_repo_str(repo):
@@ -52,10 +71,10 @@ def generate_markdown(repos):
 
 def main():
     username = 'nk2028'
-    repos = get_repos(username)
+    repos = get_repos(username, os.environ.get('GITHUB_TOKEN'))
     markdown = generate_markdown(repos)
-    with open('profile/README.md', 'w', encoding='utf-8') as f:
-        f.write(markdown)
+    readme = Path('profile/README.md')
+    readme.write_text(markdown, encoding='utf-8')
 
 if __name__ == '__main__':
     main()
