@@ -1,16 +1,16 @@
 ## Original Repositories
 
-- **348** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **61** [nk2028/tshet-uinh-deriver](https://github.com/nk2028/tshet-uinh-deriver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
+- **349** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **62** [nk2028/tshet-uinh-deriver](https://github.com/nk2028/tshet-uinh-deriver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **55** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **53** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
 - **52** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): Rime TUPA input schema | rime 切韻拼音輸入方案
-- **45** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
+- **46** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **28** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Machine-readable data extracted from ancient documents of the Qieyun system
 - **23** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character and get all of its variant forms
 - **21** [nk2028/yindian](https://github.com/nk2028/yindian): Yindian (音典) is a website that comprehensively catalogs the pronunciations of Chinese characters
 - **19** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 切韻系韻書及韻圖書影 Images of ancient documents of the Qieyun system
-- **16** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
+- **17** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **15** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
 - **12** [nk2028/onyomi-gakken-kanwa](https://github.com/nk2028/onyomi-gakken-kanwa): 『学研漢和大辞典』音読みの資料
 - **11** [nk2028/ToMiddleChinese](https://github.com/nk2028/ToMiddleChinese): A Python library to add reconstructed pronunciations of Middle Chinese on Chinese texts
