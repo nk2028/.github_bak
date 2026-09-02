@@ -18,8 +18,8 @@
 - **10** [nk2028/tshet-uinh-fanqie](https://github.com/nk2028/tshet-uinh-fanqie): An automated fanqie tool based on the Qieyun system
 - **9** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **9** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
+- **8** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **8** [nk2028/yindian-server](https://github.com/nk2028/yindian-server): Server of the Yindian (Chinese Character Pronunciation Dictionary) Web App
-- **7** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **7** [nk2028/tshet-uinh-tools](https://github.com/nk2028/tshet-uinh-tools): A tool to find the Chinese characters by phonological expressions
 - **7** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **6** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
